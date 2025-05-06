@@ -7,11 +7,14 @@
 #######################################
 *                                     @<your username>
 
+# Software license annotation
+/LICENSE                              @<your username>
+
 #######################################
 # Source Code
 #######################################
 /src/                                 @<your username>
-/src/fake_api_server/                 @<your username>
+*.py                                  @<your username>
 
 #######################################
 # Tests
